@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>banan</title>
   </head>
   <body>
     <h1>Welcome</h1>
